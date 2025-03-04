@@ -1,5 +1,4 @@
-Naeem-360/Clip-Master
-                    
+               
 # Clipboard Manager  
 This is a Python-based clipboard manager featuring a stylish **blue-and-black GUI** that automates tracking your clipboard history. It runs quietly in the background, capturing everything you copy, and lets you reuse it with a single click—perfect for anyone juggling multiple snippets of text, code, or data.
 
